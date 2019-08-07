@@ -1,21 +1,21 @@
 # Primitive Type
 
-1. String<br>
+### 1. String<br>
     "hello"
 
-2. Number<br>
+### 2. Number<br>
     1 / 1.4 / 2934
 
-3. Boolean<br>
+### 3. Boolean<br>
     true / false
 
-4. Null<br>
+### 4. Null<br>
     null (null값, 값이 없음)
 
-5. Undefined<br>
+### 5. Undefined<br>
     undefined (정의되지 않음)
 
-6. NaN<br>
+### 6. NaN<br>
     Not a Number
     ```javascript
     Math.pow(11, "hello")
@@ -27,7 +27,7 @@
     NaN
     ```
 
-7. TypeOf<br>
+### 7. TypeOf<br>
     ```javascript
     typeof true
     "boolean"
